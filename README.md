@@ -1,6 +1,6 @@
-# Codsoft-intern
+# CodSoft-Internship
 
-This repo consists of all the task of level 1 of web development internship by CodSodt
+* This repo consists of all the task of level 1 of web development internship by CodSoft
 
 ## Task-1 || Landing Page
 
@@ -13,4 +13,3 @@ This repo consists of all the task of level 1 of web development internship by C
 ## Task-3 || Calculator
 
 [Source code](https://github.com/Vaibhav832/CodSoft_Internship/tree/main/Calculator)
-# CodSoft_Internship
